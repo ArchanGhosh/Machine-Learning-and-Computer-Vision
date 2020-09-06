@@ -9,7 +9,7 @@ Choose Either of the Problems.
 ### 1. Classification of ASL (American Sign language) {Beginner Level}
 
 The Following is a basic level problem related to Classification of images.
-We Will be using Neural Networks, understand the basics and then implement them to classify the images
+We Will be using Neural Networks, understand the basics and then implement them to classify the images in corresponding classes.
 The ASL Dataset can be found [here](https://www.kaggle.com/grassknoted/asl-alphabet)
 
 #### Requirements:
@@ -22,13 +22,13 @@ The ASL Dataset can be found [here](https://www.kaggle.com/grassknoted/asl-alpha
 ### 2. Implementing DCGAN using Tensorflow 2.0 {Intermediate Level}
 
 In this problem we will go throw the basics of a GAN network, making a Normalised Synthetic Dataset;
-And then putting those together to create a **DC GAN**
+And then we will put all those together to create a **DC GAN**
 
 #### Requirements:
 1. Image Perception
 2. Basic Understanding of Matrix
 3. All the requirements of Problem 1
 
-No need to any Dataset for this.
+No need to download any Dataset for this.
 
 
