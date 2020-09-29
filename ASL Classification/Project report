@@ -1,20 +1,20 @@
-<h1>Project report</h1>
-<br/>
-Sign language has been a major boon for people who are hearing- and speech-impaired.<br/> 
-But it can serve its purpose only when the other person can understand sign language. <br/>
-Thus it would be really nice to have a system which could convert the hand gesture <br/>
-image to the corresponding English letter. And hence, in this project I tried to build <br/>
-an AI model that would predict the english letter for a given image of sign language hand gesture.<br/>
+Project report:
 
-I designed a 6 layered convolution neural network model for image classification and trained it <br/>
-using ASL dataset from Kaggle. The dataset was quite large, so it was difficult to train it <br/>
-using the local system. Hence, initially I started working with Sign Language MNIST dataset <br/>
-which was much easier to load and train. And once I achieved a satisfactory result on it, <br/>
-I moved on to ASL Dataset. I used google colab platform where I directly imported the dataset<br/>
-from Kaggle and ran it using GPU. The model achieved an accuracy of 99.56% against a validation accuracy of 99.49%.<br/>
+Sign language has been a major boon for people who are hearing- and speech-impaired.
+But it can serve its purpose only when the other person can understand sign language. 
+Thus it would be really nice to have a system which could convert the hand gesture 
+image to the corresponding English letter. And hence, in this project I tried to build 
+an AI model that would predict the english letter for a given image of sign language hand gesture.
 
-I would like to thank my mentor Archan Ghosh for guiding me throughout this project. <br/>
-His constant support is why this project continued even after facing a lot of downs and difficulties. <br/>
-He was always available when I had questions or wanted feedback. He has helped me improve every part of this project <br/>
-from tuning the model to introducing me to new areas of deep learning. <br/>
-His mentorship has been integral in the work that I’ve done on this project.<br/>
+I designed a 6 layered convolution neural network model for image classification and trained it 
+using ASL dataset from Kaggle. The dataset was quite large, so it was difficult to train it 
+using the local system. Hence, initially I started working with Sign Language MNIST dataset 
+which was much easier to load and train. And once I achieved a satisfactory result on it, 
+I moved on to ASL Dataset. I used google colab platform where I directly imported the dataset
+from Kaggle and ran it using GPU. The model achieved an accuracy of 99.56% against a validation accuracy of 99.49%.
+
+I would like to thank my mentor Archan Ghosh for guiding me throughout this project. 
+His constant support is why this project continued even after facing a lot of downs and difficulties. 
+He was always available when I had questions or wanted feedback. He has helped me improve every part of this project 
+from tuning the model to introducing me to new areas of deep learning. 
+His mentorship has been integral in the work that I’ve done on this project.
