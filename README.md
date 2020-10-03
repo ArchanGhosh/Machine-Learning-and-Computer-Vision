@@ -1,6 +1,7 @@
 # Synthax Problem Statements
 
-First of all thank you for choosing the problems, we will have two problems based on difficulty.
+First of all thank you for choosing the problems, both the problems are presented to you on behalf of Palinoia
+we will have two problems based on difficulty.
 
 Choose Either of the Problems.
 
@@ -31,4 +32,5 @@ And then we will put all those together to create a **DC GAN**
 
 No need to download any Dataset for this.
 
-
+Regards,
+Palinoia
