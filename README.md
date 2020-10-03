@@ -1,7 +1,7 @@
 # Synthax Problem Statements
 
-First of all thank you for choosing the problems, both the problems are presented to you on behalf of Palinoia
-we will have two problems based on difficulty.
+First of all thank you for choosing the problems, both the problems are presented to you on behalf of Palinoia.
+We will have two problems based on difficulty.
 
 Choose Either of the Problems.
 
